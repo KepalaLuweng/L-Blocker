@@ -55,7 +55,7 @@ Enable any of these specialized modules on top of your chosen Main Profile.
 
 ## **Installation**
 
-1. Download the latest L-Blocker-vX.X.X.zip from the [Releases](https://www.google.com/search?q=https://github.com/KepalaLuweng/L-Blocker/releases) page.  
+1. Download the latest L-Blocker-vX.X.X.zip from the [Releases](https://github.com/KepalaLuweng/L-Blocker/releases) page.  
 2. Open Magisk or KernelSU Manager.  
 3. Flash the downloaded ZIP file in the "Modules" section.  
 4. Reboot your device.  
@@ -88,4 +88,4 @@ A huge and special thank you to **Hagezi** for providing the comprehensive, high
 
 * [**YouTube**](https://www.youtube.com/@luwengtechid)  
 * [**Telegram**](https://t.me/luwengtechofficial)  
-* [**GitHub**](https://www.google.com/search?q=https://github.com/KepalaLuweng)
+* [**GitHub**](https://github.com/KepalaLuweng)
