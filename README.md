@@ -1,5 +1,10 @@
 # **Luweng Blocker (L-Blocker)**
 
+> [!IMPORTANT]
+> ### 🚀 Official Download Center
+> All official releases and flashable ZIP files are centralized in the Luweng Ecosystem release center:
+> 👉 **[Download L-Blocker on Luweng-Releases](https://github.com/KepalaLuweng/Luweng-Releases#-l-blocker)**
+
 ### **Your Rules, Your Network.**
 
 **L-Blocker** is an advanced, system-wide ad, tracker, and malware blocker for rooted Android devices. Designed for both Magisk and KernelSU, it provides a powerful, profile-based blocking system managed through a clean and intuitive Web Control Panel. L-Blocker puts you in command, allowing you to choose your level of protection and customize it with modular add-ons to create a truly clean and secure network experience on your device.
@@ -55,7 +60,7 @@ Enable any of these specialized modules on top of your chosen Main Profile.
 
 ## **Installation**
 
-1. Download the latest L-Blocker-vX.X.X.zip from the [Releases](https://github.com/KepalaLuweng/L-Blocker/releases) page.  
+1. Download the latest `L-Blocker.v1.0.0.zip` from the [Luweng-Releases Center](https://github.com/KepalaLuweng/Luweng-Releases#-l-blocker).  
 2. Open Magisk or KernelSU Manager.  
 3. Flash the downloaded ZIP file in the "Modules" section.  
 4. Reboot your device.  
