@@ -60,7 +60,7 @@ Enable any of these specialized modules on top of your chosen Main Profile.
 
 ## **Installation**
 
-1. Download the latest `L-Blocker.v1.0.0.zip` from the [Luweng-Releases Center](https://github.com/KepalaLuweng/Luweng-Releases#-l-blocker).  
+1. Download the latest `L-Blocker-v2.0.0.zip` from the [Luweng-Releases Center](https://github.com/KepalaLuweng/Luweng-Releases#-l-blocker).  
 2. Open Magisk or KernelSU Manager.  
 3. Flash the downloaded ZIP file in the "Modules" section.  
 4. Reboot your device.  
