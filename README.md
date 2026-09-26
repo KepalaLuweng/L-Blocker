@@ -54,14 +54,14 @@ Enable any of these specialized modules on top of your chosen Main Profile.
 
 ## **Requirements**
 
-* Android 9 (Pie) or newer.  
-* Magisk v24+ or any version of KernelSU.  
-* **For Magisk users:** To access the Web Control Panel, you must install a companion module like **"Ksuwebui for Magisk"**.
+* Universal Android 9 (Pie) through Android 16.  
+* Magisk, KernelSU, APatch, or ReSukiSU.  
+* 100% Standalone (No external meta-modules or companion plugins required).
 
 ## **Installation**
 
 1. Download the latest `L-Blocker-v2.0.0.zip` from the [Luweng-Releases Center](https://github.com/KepalaLuweng/Luweng-Releases#-l-blocker).  
-2. Open Magisk or KernelSU Manager.  
+2. Open Magisk, KernelSU, APatch, or ReSukiSU Manager.  
 3. Flash the downloaded ZIP file in the "Modules" section.  
 4. Reboot your device.  
 5. Open the Control Panel from the module list in your manager app to configure L-Blocker.
